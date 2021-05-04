@@ -11,6 +11,8 @@
 ### [Jacobi Iteration method](https://atozmath.com/CONM/GaussEli.aspx?q=GJ2&q1=2%602x%2B5y%3D16%3B3x%2By%3D11%60GJ2%60%601.25&dm=D&dp=4&do=0)
 
 ## Unit 3 - Curve Fitting
+### [Fitting a second degree parabola (Method of Least Squares)](https://atozmath.com/CONM/LeastSquare.aspx?q=2)
+
 ### [Linear regression](https://www.socscistatistics.com/tests/regression/default.aspx)
 
 ### Polynomial Regression
