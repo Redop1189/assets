@@ -44,6 +44,20 @@
 ### [System of equation](https://www.emathhelp.net/calculators/algebra-2/system-of-equations-solver/)
 
 ### [Eigenvalues and Eigenvectors](https://www.emathhelp.net/calculators/linear-algebra/eigenvalue-and-eigenvector-calculator/)
-### [Eigenvalues and Eigenvectors](https://www.emathhelp.net/calculators/linear-algebra/eigenvalue-and-eigenvector-calculator/)
+### Shooting Method
+### Finite Difference Method
+### Eigen value problem based on polynomial method
+### Power method
+
+## Unit 6 - Partial Differential Equation
+### a. Finite Difference -
+#### [Elliptical equation](https://atozmath.com/CONM/NumeInte.aspx)
+#### [Laplace’s equation](https://www.emathhelp.net/calculators/differential-equations/laplace-transform-calculator/)
+#### [Liebmen’s Method](https://atozmath.com/CONM/GaussEli.aspx?q=GS2)
+#### Secondary variables
+#### Boundary condition
+
+### b. Finite Difference -
+#### [Parabolic Equation](https://www.emathhelp.net/calculators/algebra-2/parabola-calculator/)
 
 # [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRedop1189%2Fassets&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
