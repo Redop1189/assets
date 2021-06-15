@@ -23,4 +23,18 @@
 
 ### [Lagrange Interpolating Polynomial](https://www.dcode.fr/lagrange-interpolating-polynomial)
 
+## Unit 4 - Numerical Differentiation and Integration
+### Newton’s cotes Integration of equation:
+#### [Trapezoidal rule](https://atozmath.com/CONM/NumeInte.aspx)
+#### [Simpson’s rules](https://atozmath.com/CONM/NumeInte.aspx?q=S13)
+#### Integration unequal segments
+
+### Integration of Equation:
+#### [Romberg’s Integration](https://keisan.casio.com/exec/system/1279080637)
+#### [Gauss Quadrature](https://keisan.casio.com/exec/system/1330940731)
+
+### Richardson extrapolation
+
+## Unit 5 - Ordinary Differential Equation
+
 # [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRedop1189%2Fassets&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
