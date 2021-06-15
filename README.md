@@ -36,5 +36,14 @@
 ### Richardson extrapolation
 
 ## Unit 5 - Ordinary Differential Equation
+### [Taylor’s series method](https://atozmath.com/CONM/RungeKutta.aspx?q=ts)
+### Picard’s Method
+### [Runge-Kutta method](https://atozmath.com/CONM/RungeKutta.aspx?q=rk4)
+### [Euler’s Method](https://atozmath.com/CONM/RungeKutta.aspx)
+### [Improved polygon method](https://www.emathhelp.net/calculators/differential-equations/improved-euler-heun-calculator/)
+### [System of equation](https://www.emathhelp.net/calculators/algebra-2/system-of-equations-solver/)
+
+### [Eigenvalues and Eigenvectors](https://www.emathhelp.net/calculators/linear-algebra/eigenvalue-and-eigenvector-calculator/)
+### [Eigenvalues and Eigenvectors](https://www.emathhelp.net/calculators/linear-algebra/eigenvalue-and-eigenvector-calculator/)
 
 # [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRedop1189%2Fassets&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
